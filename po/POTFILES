@@ -1,0 +1,7 @@
+data/com.github.planificala.Registry.desktop.in
+data/com.github.planificala.Registry.appdata.xml.in
+data/com.github.planificala.Registry.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+

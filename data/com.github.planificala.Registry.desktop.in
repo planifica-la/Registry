@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=registry
+Exec=registry
+Icon=com.github.planificala.Registry
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

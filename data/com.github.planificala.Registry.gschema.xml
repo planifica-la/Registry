@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="registry">
+	<schema id="com.github.planificala.Registry" path="/com/github/planificala/Registry/">
+	</schema>
+</schemalist>
