@@ -22,7 +22,7 @@ namespace Registry {
 		public Window (Gtk.Application app) {
 			Object (application: app);
 
-			set_default_size (400, 600);
+			set_default_size (600, 400);
 
 			var header = new Gtk.HeaderBar () {
 			    show_title_buttons = true,

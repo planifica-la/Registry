@@ -11,10 +11,10 @@ registry_deps = [
 
 gnome = import('gnome')
 
-registry_sources += gnome.compile_resources('registry-resources',
-  'registry.gresource.xml',
-  c_name: 'registry'
-)
+# registry_sources += gnome.compile_resources('registry-resources',
+#   'registry.gresource.xml',
+#   c_name: 'registry'
+# )
 
 executable('registry', registry_sources,
   vala_args: '--target-glib=2.50',  dependencies: registry_deps,
