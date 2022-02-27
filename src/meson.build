@@ -6,6 +6,7 @@ registry_sources = [
 
 registry_deps = [
   dependency('gtk4'),
+  dependency('sqlite3'),
 ]
 
 gnome = import('gnome')
